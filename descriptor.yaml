@@ -1,7 +1,7 @@
 #%Catalog Descriptor 0.6
 apis:
-  - spec: american.raml
-    assetId: american
-    apiVersion: 2.0.0
+  - spec: shipping-api.yaml
+    assetId: shipping-api
+    apiVersion: 1.0.0
     docs:
       home: home.md
