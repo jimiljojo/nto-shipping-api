@@ -35,7 +35,6 @@ paths:
               schema:
                 oneOf:
                   - $ref: '#/components/schemas/unifiedShippingResponse'
-                  - $ref: 'exchange_modules/88f73588-1e82-4b29-819f-49c866f33599/shippingvendorresponses/1.0.0/shippingvendorresponses.raml'
 
 components:
   schemas:
