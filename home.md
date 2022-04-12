@@ -1,1 +1,1 @@
-![image.jpg](./image.jpg)
+![image.jpg](https://anypoint.mulesoft.com/exchange/ac6d936c-c476-4e60-8007-d00a4f2bff8c/sample/1.0.0/resources/image-1fbdbf0d-8be7-4bc5-a8d7-15d97f9fe128.png)
