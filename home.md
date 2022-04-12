@@ -1,1 +1,1 @@
-![resources/image-47520d35-ec92-4540-87de-36c61f144777.png](resources/image-47520d35-ec92-4540-87de-36c61f144777.png)
+![resources/image-1fbdbf0d-8be7-4bc5-a8d7-15d97f9fe128.png](resources/image-1fbdbf0d-8be7-4bc5-a8d7-15d97f9fe128.png)
